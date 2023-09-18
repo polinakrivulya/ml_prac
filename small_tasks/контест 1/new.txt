@@ -1,7 +1,0 @@
-5 
-cat - kosha 
-dog - soba 
-good - horo, normo 
-bad - ploh, uzha 
-ugly - uzha
-
