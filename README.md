@@ -1,5 +1,5 @@
 # ml_prac
-practical ML homeworks from the university
+practical ML homework from the university
 
 ВМК МГУ, кафдера ММП, 5 семестр обучения.
 Задания, выполнение на курсе "Технологический практикум". Работы в основном посвящены введению в Python (small_tasks) и ручной реализации некоторых функций из ML библиотек.
